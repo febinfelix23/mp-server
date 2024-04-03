@@ -1,0 +1,49 @@
+{
+  "allVideos": [
+    {
+      "id": "6",
+      "caption": "Premalu",
+      "url": "https://feminisminindia.com/wp-content/uploads/2024/03/226114-p.jpg",
+      "link": "https://www.youtube.com/embed/9_xMvx-vnJ0?autoplay=1"
+    },
+    {
+      "id": "7",
+      "caption": "Manjummel Boys",
+      "url": "https://m.media-amazon.com/images/M/MV5BMTkxY2QxYTctOTRlMC00ZGQxLTlmMGItM2RhNmJkMTE4M2FlXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_.jpg",
+      "link": "https://www.youtube.com/embed/W6-O00alJUo?autoplay=1"
+    },
+    {
+      "id": "1",
+      "caption": "Sulaikha Manzil",
+      "url": "https://m.media-amazon.com/images/M/MV5BYWM4ZjM5NzktM2YzMS00NWQ2LThmZWQtODBlZTFmNTdmNTBjXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_.jpg",
+      "link": "https://www.youtube.com/embed/A8hbw3-D610?autoplay=1"
+    }
+  ],
+  "watchHistory": [],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "1",
+      "allVideos": [
+        {
+          "id": "6",
+          "caption": "Premalu",
+          "url": "https://feminisminindia.com/wp-content/uploads/2024/03/226114-p.jpg",
+          "link": "https://www.youtube.com/embed/9_xMvx-vnJ0?autoplay=1"
+        }
+      ]
+    },
+    {
+      "categoryName": "Manjummel Boys",
+      "allVideos": [
+        {
+          "id": "7",
+          "caption": "Manjummel Boys",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTkxY2QxYTctOTRlMC00ZGQxLTlmMGItM2RhNmJkMTE4M2FlXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_.jpg",
+          "link": "https://www.youtube.com/embed/W6-O00alJUo?autoplay=1"
+        }
+      ],
+      "id": 2
+    }
+  ]
+}
